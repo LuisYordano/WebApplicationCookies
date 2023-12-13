@@ -1,0 +1,6 @@
+@WebApplicationCookies_HostAddress = http://localhost:5076
+
+GET {{WebApplicationCookies_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
